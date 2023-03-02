@@ -1,7 +1,7 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "midgard5-combat-tools",
+  "title": "Midgard 5 Combat Tools",
+  "description": "Die Midgard 5 Combat Tools bestehen zunächst aus einem Kompendium mit Szenen, Battlemaps, Nichtspielerfiguren und Gegenständen für den Kampf. Später soll nocjh ein Midgard spezifischer Rundenablauf möglich sein",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -12,9 +12,9 @@
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Le Frique",
+      "url": "https://www.le-frique.net/",
+      "discord": "Le Frique#5098"
     }
   ],
   "relationships": {
@@ -22,19 +22,19 @@
     "requires": []
   },
   "esmodules": [
-    "scripts/module.js"
+    "scripts/midgard5-combat-tools.js"
   ],
   "scripts": [
-    "scripts/lib/lib.js"
+    "scripts/lib/midgard5-combat-tools.js"
   ],
   "styles": [
-    "styles/module.css"
+    "styles/midgard5-combat-tools.css"
   ],
   "languages": [
     {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "languages/de.json"
     }
   ],
   "url": "#{URL}#",
