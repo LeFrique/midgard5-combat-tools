@@ -1,0 +1,28 @@
+{
+  "name": "Nachtlager-im-Wald-STATIC",
+  "width": 4200,
+  "height": 4200,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.0,
+  "lights": [
+    {
+      "x": 1901,
+      "y": 2557,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.0
+    }
+  ],
+  "walls": [],
+  "img": null,
+  "foreground": null
+}

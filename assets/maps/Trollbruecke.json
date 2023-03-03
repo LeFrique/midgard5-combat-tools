@@ -1,0 +1,101 @@
+{
+  "name": "Brücke am Fluss im Wald",
+  "width": 5850,
+  "height": 6000,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.3,
+  "lights": [
+    {
+      "x": 4444,
+      "y": 4461,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.0
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        4094,
+        5025,
+        4873,
+        5025
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4094,
+        5025,
+        4094,
+        4713
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4094,
+        4713,
+        4405,
+        4713
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4405,
+        4713,
+        4405,
+        4401
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4405,
+        4401,
+        4561,
+        4401
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4873,
+        5025,
+        4873,
+        4401
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}

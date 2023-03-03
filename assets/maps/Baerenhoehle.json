@@ -1,0 +1,164 @@
+{
+  "name": "Bärenhöhle",
+  "width": 5100,
+  "height": 5100,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.0,
+  "lights": [],
+  "walls": [
+    {
+      "c": [
+        3021,
+        2392,
+        3178,
+        2392
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3021,
+        2392,
+        3021,
+        2235
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3021,
+        1921,
+        3491,
+        1921
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3178,
+        2392,
+        3178,
+        2235
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3178,
+        2235,
+        3334,
+        2235
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3334,
+        2392,
+        3962,
+        2392
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3334,
+        2392,
+        3334,
+        2235
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3491,
+        2078,
+        3491,
+        1921
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3491,
+        2078,
+        3648,
+        2078
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3648,
+        2078,
+        3648,
+        1921
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3648,
+        1921,
+        3962,
+        1921
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3962,
+        2392,
+        3962,
+        1921
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}

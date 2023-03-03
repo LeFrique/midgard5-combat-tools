@@ -1,0 +1,149 @@
+{
+  "name": "Schiffbruchinsel",
+  "width": 1650,
+  "height": 2400,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.0,
+  "lights": [
+    {
+      "x": 539,
+      "y": 1799,
+      "dim": 40.0,
+      "bright": 20.0,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 554,
+      "y": 1798,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 1173,
+      "y": 1871,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 565,
+      "y": 1794,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.0
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        1011,
+        275,
+        990,
+        254
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        996,
+        271,
+        996,
+        241
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        990,
+        257,
+        1011,
+        236
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        994,
+        243,
+        1024,
+        243
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1008,
+        236,
+        1029,
+        257
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1022,
+        241,
+        1022,
+        271
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1029,
+        254,
+        1008,
+        275
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1024,
+        268,
+        994,
+        268
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}
